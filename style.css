@@ -67,3 +67,39 @@ h1 span{
 .sec-part h5{
     margin-left: 20px;
 }
+
+
+.thard-sec-sec{
+    overflow: hidden;
+    display: inline-block;
+}
+
+.thard-sec-first{
+    margin-top: 40px;
+    margin-left: 20px;
+    float: left;
+}
+.thard-sec-first img{
+    width: 350px;
+    height: 250px;
+}
+
+.thard-sec-sec{
+    margin-top: 40px;
+    margin-left: 50px;
+    float: left;
+}
+.fourth-section{
+    overflow: hidden;
+    display: inline-block;
+    margin-top: 50px;
+}
+.fourth-sec-first{
+    margin-top: 40px;
+    margin-left: 20px;
+    float: left;
+}
+.fourth-sec-sec img{
+    width:350px;
+    height 260px;
+}
