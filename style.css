@@ -2,19 +2,8 @@ body{
     margin: 0 auto;
     font-family: 'Poppins', sans-serif;
     width: 90%;
+    background-color:pink;
 }
-h1{
-    font-size: 40px;
-    padding-left: 10px;
-}
-.header-title{
-    border-left: 2px solid;
-    border-color: tomato;
-}
-
-#header-section{
-    padding-top: 30px;
-}
-.head-title{
-    color: pink;
+.first-section{
+    background-color:pink;
 }
