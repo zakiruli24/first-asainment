@@ -2,8 +2,36 @@ body{
     margin: 0 auto;
     font-family: 'Poppins', sans-serif;
     width: 90%;
-    background-color:pink;
+    
 }
 .first-section{
-    background-color:pink;
+    
+}
+.first-sec-div h1{
+    font-size: 40px;
+    border-left: 4px solid tomato;
+    
+}
+h1{
+    padding-left: 10px;
+}
+h1 span{
+    color: pink;
+}
+.first-sec-div{
+    width: 40%;
+    float: left;
+}
+.button{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.head-second img{
+    max-width: 70%;
+    min-height: 70%;
+    margin-left: 200px;
 }
