@@ -5,7 +5,8 @@ body{
     
 }
 .first-section{
-    
+    overflow: hidden;
+    display: inline-block;
 }
 .first-sec-div h1{
     font-size: 40px;
@@ -34,4 +35,35 @@ h1 span{
     max-width: 70%;
     min-height: 70%;
     margin-left: 200px;
+}
+
+.second-section{
+    overflow: hidden;
+    display: inline-block;
+}
+.second-section p{
+    text-align: center;
+    font-size: 40px;
+    margin-left: 200px;
+}
+.second-section p span{
+    color:sandybrown;
+}
+.sec-part{
+    height: 300px;
+    width: 260px;
+    background-color: salmon;
+    border-radius: 10px;
+    float: left;
+    margin: 0px 20px;
+}
+.sec-part img{
+    width: 100px;
+    height: 100px;
+}
+.sec-part h2{
+    margin-left: 20px;
+}
+.sec-part h5{
+    margin-left: 20px;
 }
