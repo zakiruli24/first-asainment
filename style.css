@@ -103,3 +103,21 @@ h1 span{
     width:350px;
     height 260px;
 }
+
+
+.footer-part{
+    width:100%;
+    height: 150px;
+    background-color: black;
+}
+.footer-part h5{
+    font-size: 15px;
+    color:wheat;
+    text-align: center;
+    padding-top: 20px;
+}
+.footer-part{
+    color: wheat;
+    text-align: center;
+
+}
